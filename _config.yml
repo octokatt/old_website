@@ -2,12 +2,12 @@
 title: Hello, Internet Stranger
 description: 
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "kattkennedy.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "kattkennedy.me" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Katt Kennedy
-user_description: I do practical analysis for businesses. I've worked with siloed ERP/CRM platforms, time-series survey design, gigabytes of irregularly formatted data, and high-level data architecture and infrastructure design. 
-user_title: Data Scientist, MBA
+user_description: I do practical analysis for businesses. I've worked with fast-paced start-ups, siloed ERP/CRM platforms, gigabytes of irregularly formatted data, time-series predictive analysis, and high-level data architecture and infrastructure design. 
+user_title: Data Scientist
 email: katt@fatehold.com
 twitter_username: octokatt_bot
 github_username:  octokatt
